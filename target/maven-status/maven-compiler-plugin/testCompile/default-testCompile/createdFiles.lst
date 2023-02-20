@@ -1,0 +1,11 @@
+junit5tests\TestPlus.class
+cucumbertests\RunCucumberTest.class
+junit5tests\TestOperation.class
+junit5tests\TestDivides.class
+junit5tests\TestMyNumber.class
+junit5tests\TestNotation.class
+cucumbertests\CalculatorSteps.class
+junit5tests\TestTimes.class
+junit5tests\TestEvaluator.class
+junit5tests\TestMinus.class
+junit5tests\TestCounting.class
